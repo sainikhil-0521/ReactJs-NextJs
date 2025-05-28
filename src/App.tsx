@@ -15,6 +15,9 @@ const App: React.FC = ()=> {
       <Card>
         <Counter />
       </Card>
+      <Card>
+        <Counter />
+      </Card>
     </div>
   </>);
 }
